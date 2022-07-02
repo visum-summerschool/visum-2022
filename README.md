@@ -1,2 +1,23 @@
-# visum-2022
-Official repository of the VISUM Summer School 2022.
+# VISUM 2022
+![VISUM2021](VISUM2022_banner.png)
+
+Hello and welcome to the VISUM 2022 Repository.
+Here the materials for the VISUM 2022 summer school will be shared throughout the week.
+
+## Notes:
+
+### Basics
+Basics I: Introduction to Probability and Statistics by Diogo Pernes - TBA
+
+Basics II: Machine Learning by Jaime S. Cardoso - TBA
+
+Basics III: Computer Vision with Deep Learning by Luís F. Teixeira - TBA
+
+Basics IV: Python and Scikit-Learn by Isabel Rio-Torto and Leonardo Capozzi - [Google Colaboratory Notebook](basics-sessions/BasicsIV_Machine_Learning_with_Python_and_Scikit_learn.ipynb)
+
+Basics V: PyTorch and Tensorflow by Eduardo Meca Castro and Pedro Neto - [Google Colaboratory Notebook](basics-sessions/BasicsV_Pytorch_and_Tensorflow.ipynb))
+
+
+
+## For Project Related please go to:
+https://github.com/visum-summerschool/visum-competition2022
