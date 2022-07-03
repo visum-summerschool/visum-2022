@@ -4,7 +4,7 @@
 Hello and welcome to the VISUM 2022 Repository.
 Here the materials for the VISUM 2022 summer school will be shared throughout the week.
 
-## Lecture Notes:
+## Lecture Notes
 
 ### Basics
 Basics I: Introduction to Probability and Statistics by Diogo Pernes - TBA
