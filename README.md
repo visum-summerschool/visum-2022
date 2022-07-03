@@ -20,4 +20,8 @@ Basics V: PyTorch and Tensorflow by Eduardo Meca Castro and Pedro Neto - [Google
 
 
 ## Project
+### Documents
+Project Launch by Project Committee - [Slides](project/VISUM2022_Project_Launch.pdf)
+
+### Repository
 The official GitHub repository of the VISUM 2022 Project is available at: https://github.com/visum-summerschool/visum-competition2022
