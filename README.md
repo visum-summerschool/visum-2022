@@ -7,7 +7,7 @@ Here the materials for the VISUM 2022 summer school will be shared throughout th
 ## Lecture Notes
 
 ### Basics
-Basics I: Introduction to Probability and Statistics by Diogo Pernes - TBA
+Basics I: Introduction to Probability and Statistics by Diogo Pernes - [Slides](basics-sessions/BasicsI_Introduction_to_Probability_and_Statistics.pdf)
 
 Basics II: Machine Learning by Jaime S. Cardoso - [Slides](basics-sessions/BasicsII_Machine_Learning.pdf)
 
