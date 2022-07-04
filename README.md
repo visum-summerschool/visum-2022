@@ -9,7 +9,7 @@ Here the materials for the VISUM 2022 summer school will be shared throughout th
 ### Basics
 Basics I: Introduction to Probability and Statistics by Diogo Pernes - TBA
 
-Basics II: Machine Learning by Jaime S. Cardoso - TBA
+Basics II: Machine Learning by Jaime S. Cardoso - [PDF](basics-sessions/BasicsII_Machine_Learning.pdf)
 
 Basics III: Computer Vision with Deep Learning by Luís F. Teixeira - TBA
 
