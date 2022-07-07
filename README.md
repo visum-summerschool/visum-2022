@@ -17,6 +17,8 @@ Basics IV: Python and Scikit-Learn by Isabel Rio-Torto and Leonardo Capozzi - [G
 
 Basics V: PyTorch and Tensorflow by Eduardo Meca Castro and Pedro Neto - [Google Colaboratory Notebook](basics-sessions/BasicsV_Pytorch_and_Tensorflow.ipynb)
 
+### AI Design Thinking
+Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/AI_design_thinking_slides.pdf) | [Canvas](AI-design-thinking/AI_design_thinking_canvas.pdf)
 
 
 ## Project
