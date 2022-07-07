@@ -22,6 +22,7 @@ Basics V: PyTorch and Tensorflow by Eduardo Meca Castro and Pedro Neto - [Google
 ## Project
 ### Documents
 Project Launch by Project Committee - [Slides](project/VISUM2022_Project_Launch.pdf)
+
 Project FAQs by Project Committee - [FAQs](project/VISUM2022_Project_FAQs.pdf)
 
 ### Repository
