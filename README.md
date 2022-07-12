@@ -24,6 +24,21 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
   Lecture by Henning Müller - TBA
   
   Hands-On by Mara Graziani - [GitHub](https://github.com/maragraziani/InterpretabilityVISUM22) | [Notebook 1](explainable-ai/Interpretability.ipynb) | [Notebook 2](explainable-ai/Uncertainty.ipynb)
+  
+### Self-Supervised Learning
+  Lecture by Yuki Asano - TBA
+  
+  Hands-On by Tengda Han - TBA
+  
+### Deep Generative Models
+  Lecture by Michal Rosen-Zvi - TBA
+  
+  Hands-On by Helena Montenegro and Eduardo Castro - TBA
+  
+### Privacy-Preserving ML
+  Lecture by Jonathan Passerat-Palmbach - TBA
+  
+  Hands-On by Anna Beer - TBA
 
 
 ## Project
