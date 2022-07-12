@@ -28,7 +28,7 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
 ### Self-Supervised Learning
   Lecture by Yuki Asano - TBA
   
-  Hands-On by Tengda Han - TBA
+  Hands-On by Tengda Han - [Notebook](self-supervised-learning/VISUM_SSL_Tutorial.ipynb)
   
 ### Deep Generative Models
   Lecture by Michal Rosen-Zvi - TBA
