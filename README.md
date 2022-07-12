@@ -33,7 +33,7 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
 ### Deep Generative Models
   Lecture by Michal Rosen-Zvi - TBA
   
-  Hands-On by Helena Montenegro and Eduardo Castro - TBA
+  Hands-On by Helena Montenegro, Eduardo Castro, Matteo Manica and Michal Rosen-Zvi - TBA
   
 ### Privacy-Preserving ML
   Lecture by Jonathan Passerat-Palmbach - TBA
