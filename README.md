@@ -21,7 +21,7 @@ Basics V: PyTorch and Tensorflow by Eduardo Meca Castro and Pedro Neto - [Google
 Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/AI_design_thinking_slides.pdf) | [Canvas](AI-design-thinking/AI_design_thinking_canvas.pdf)
 
 ### Explainable AI 
-  Lecture by Henning Müller - TBA
+  Lecture by Henning Müller - [Slides](explainable-ai/presentationHenning_VISUMsummerschool2022_Interpretability.pdf)
   
   Hands-On by Mara Graziani - [GitHub](https://github.com/maragraziani/InterpretabilityVISUM22) | [Notebook 1](explainable-ai/Interpretability.ipynb) | [Notebook 2](explainable-ai/Uncertainty.ipynb)
   
