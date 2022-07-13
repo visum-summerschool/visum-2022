@@ -31,9 +31,9 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
   Hands-On by Tengda Han - [Notebook](self-supervised-learning/VISUM_SSL_Tutorial.ipynb)
   
 ### Deep Generative Models
-  Lecture by Michal Rosen-Zvi - TBA
+  Lecture by Michal Rosen-Zvi - [Slides](deep-generative-models/VISUM_GenerativeModels.pdf)
   
-  Hands-On by Helena Montenegro, Eduardo Castro, Matteo Manica and Michal Rosen-Zvi - TBA
+  Hands-On by Helena Montenegro, Eduardo Castro, Matteo Manica and Michal Rosen-Zvi - [Notebook](https://github.com/GT4SD/gt4sd-core/blob/main/notebooks/visum-2022-handson-generative-models.ipynb) | [GitHub](https://github.com/GT4SD/gt4sd-core)
   
 ### Privacy-Preserving ML
   Lecture by Jonathan Passerat-Palmbach - TBA
