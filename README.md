@@ -26,7 +26,7 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
   Hands-On by Mara Graziani - [GitHub](https://github.com/maragraziani/InterpretabilityVISUM22) | [Notebook 1](explainable-ai/Interpretability.ipynb) | [Notebook 2](explainable-ai/Uncertainty.ipynb)
   
 ### Self-Supervised Learning
-  Lecture by Yuki Asano - TBA
+  Lecture by Yuki Asano - [Slides](self-supervised-learning/VISUM-self-supervised-learning.pdf)
   
   Hands-On by Tengda Han - [Notebook](self-supervised-learning/VISUM_SSL_Tutorial.ipynb)
   
