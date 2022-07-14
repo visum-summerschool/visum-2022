@@ -38,7 +38,7 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
 ### Privacy-Preserving ML
   Lecture by Jonathan Passerat-Palmbach - TBA
   
-  Hands-On by Anna Beer - TBA
+  Hands-On by Anna Beer - [Notebook](privacy-preserving-ml/Flower_Visum_2022.ipynb) | [GitHub](https://github.com/jopasserat/federated-learning-tutorial)
 
 
 ## Project
