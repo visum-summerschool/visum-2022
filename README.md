@@ -36,7 +36,7 @@ Workshop Materials by Kelwin Fernandes (NILG.AI) - [Slides](AI-design-thinking/A
   Hands-On by Helena Montenegro, Eduardo Castro, Matteo Manica and Michal Rosen-Zvi - [Notebook](https://github.com/GT4SD/gt4sd-core/blob/main/notebooks/visum-2022-handson-generative-models.ipynb) | [GitHub](https://github.com/GT4SD/gt4sd-core)
   
 ### Privacy-Preserving ML
-  Lecture by Jonathan Passerat-Palmbach - TBA
+  Lecture by Jonathan Passerat-Palmbach - [Slides](privacy-preserving-ml/Federated%20Learning%20%26%20PPML%20-%20VISUM%20Summer%20School%202022.pdf)
   
   Hands-On by Anna Beer - [Notebook](privacy-preserving-ml/Flower_Visum_2022.ipynb) | [GitHub](https://github.com/jopasserat/federated-learning-tutorial)
 
